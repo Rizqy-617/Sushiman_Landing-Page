@@ -140,7 +140,7 @@
   font-family: var(--playfair-display);
 }
 
-.hero-content__customer h4 {
+.hero-content__customer p {
   font-size: 16px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
